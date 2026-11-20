@@ -1,1 +1,5 @@
-# DIPT_7_Record-HOUGH-TRANSFORM
+### NAME: SURYA P <br>
+### REG NO: 212224230280 <br> 
+### Date: 20/11/2026
+
+## EX. No. 7 : RECORD HOUGH TRANSFORM
